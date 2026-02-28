@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "名実共に",
+  "base_artist": "東京事変",
+  "createdAt": "2026-02-28T04:48:55.157367Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "名実共に",
+      "artist": "Tokyo Incidents",
+      "has_synced": true,
+      "path": "select/01_名実共に_Tokyo_Incidents.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "名実共に",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_01_名実共に_東京事変.txt"
+    }
+  ]
+}
